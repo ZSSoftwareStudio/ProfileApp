@@ -10,7 +10,7 @@ class AppConstants {
   static const white = Color(0xFFFFFFFF);
 
   static const Map<String, String> data = {
-    "image": "/assets/zarif.png",
+    "image": "assets/zarif.png",
     "name": "Zarif Sadman",
     "email": "zarif@zarifprogrammer.com",
     "about":
